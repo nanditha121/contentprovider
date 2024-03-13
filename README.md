@@ -1,5 +1,5 @@
 
-# Ex.No:3 Create Your Own Content Providers to get Contacts details.
+# Ex.No:5 Create Your Own Content Providers to get Contacts details.
 
 
 ## AIM:
@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: Manoj Guna Sundar Tella.
-Registeration Number : 212221240026.
+Developed by: Narra Nanditha.
+Registeration Number : 212221040111.
 */
 ```
 ### activity_main.xml
